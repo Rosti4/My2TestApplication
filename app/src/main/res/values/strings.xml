@@ -6,6 +6,6 @@
     <string name="action_settings">Settings</string>
     <string name="text_hint">Hier bitte den Namen eingeben</string>
     <string name="ButtonOkText">OK</string>
-    <string name="ButtonToast">Toast Me!</string>
+    <string name="ButtonToast">Toast Me Now!</string>
 
 </resources>
